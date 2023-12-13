@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lollocava00
+- 👋 Hi, I’m Lorenzo
 - 👀 I’m interested in sharing my projects to people around the world
-- 🌱 I’m currently learning Fortran90
+- 🌱 I’m currently learning Hydrodynamic simulations in Fortran
 - 💞️ I’m looking to collaborate on interesting physics related projects
 - 📫 my e-mail is lollocava00@gmail.com
 
