@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
 <h3 align="center">An Astrophysicist from Bologna, Italy</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lollocava00" alt="lollocava00" /></a> </p>
-
 - 🌱 I’m currently learning **Hydrodynamic simulations in fortran**
 
 - 👯 I’m looking to collaborate on **interesting physics related projects**
