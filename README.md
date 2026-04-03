@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
 <h3 align="center">An Astrophysicist from Bologna, Italy</h3>
 
-- 🌱 I’m currently learning **Hydrodynamic simulations in fortran**
-
-- 👯 I’m looking to collaborate on **interesting physics related projects**
+- 👯 I’m looking to collaborate on **interesting Cosmology related projects**
 
 - 📫 How to reach me **lollocava00@gmail.com**
 
